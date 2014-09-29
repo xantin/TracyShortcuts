@@ -11,5 +11,8 @@
     "minimum-stability": "dev",
     "require": {
         "tracy/tracy": "2.2.3"
-    } 
+    }, 
+    "autoload": {
+        "files": ["TracyShortcuts.php"]
+    }
 }
