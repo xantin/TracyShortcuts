@@ -1,0 +1,13 @@
+{
+    "name": "xantin/tracy-shortcuts",
+    "description": "Heler for working with Tracy debugging tool",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "xantin",
+            "email": "optimus.programmer@seznam.cz"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
